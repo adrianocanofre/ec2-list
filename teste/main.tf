@@ -10,7 +10,7 @@ locals {
         }
         item2 = {
             name1 = "item2value1"
-            name2 = "item2value2"
+            name2 = "item2dfdvalue2"
         }
     }
 }
